@@ -1,4 +1,4 @@
-"""Colorful Dota. Replaces markers with special codes that correspond to certain text colors in Dota 2's chatbox."""
+"""Colorful Dota. Replaces markers with special codes that correspond to certain text colors in Dota 2's chatbox. DEPRECATED. Volvo PLS."""
 
 import sys, re, argparse
 
